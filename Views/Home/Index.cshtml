@@ -1,0 +1,61 @@
+﻿@using MovieSite.Data
+@model List<Movie>
+
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+@section Bar {
+    @await Component.InvokeAsync("Navbar")
+}
+
+
+
+<section class="mt-3">
+    <div class="container">
+        <h3 class="h4 mb-1 mb-lg-3">All Movies</h3>
+
+        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-2">
+            @foreach (var movie in Model)
+            {
+                <div class="col">
+                    @await Html.PartialAsync("Partials/Site/_MovieCard", movie)
+                </div>
+            }
+        </div>
+    </div>
+
+    @if ((int?)ViewData["TotalPages"] > 1)
+    {
+        <nav class="mt-4">
+            <ul class="pagination justify-content-center">
+                @{
+                    var currentPage = (int?)ViewData["CurrentPage"];
+                    var totalPages = (int?)ViewData["TotalPages"];
+                    var queryStr = $"&q={ViewData["q"]}&category={ViewData["category"]}";
+                }
+
+                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-page="@(currentPage - 1)" asp-route-q="@ViewData["q"]"
+                        asp-route-category="@ViewData["category"]">Previous</a>
+                </li>
+
+                @for (int i = 1; i <= totalPages; i++)
+                {
+                    <li class="page-item @(currentPage == i ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-q="@ViewData["q"]"
+                            asp-route-category="@ViewData["category"]">@i</a>
+                    </li>
+                }
+
+                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-page="@(currentPage + 1)" asp-route-q="@ViewData["q"]"
+                        asp-route-category="@ViewData["category"]">Next</a>
+                </li>
+            </ul>
+        </nav>
+    }
+
+
+</section>

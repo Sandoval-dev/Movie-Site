@@ -1,0 +1,9 @@
+@using MovieSite.Data
+@model List<Category>
+
+<nav class="nav nav-pills flex-column flex-nowrap overflow-auto slider_nav">
+    @foreach (var category in Model)
+    {
+        <a class="nav-link" href="/movies/@category.Name">@category.Name</a>
+    }
+</nav>

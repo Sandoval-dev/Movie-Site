@@ -1,0 +1,52 @@
+@model AccountCreateModel
+
+@{
+    ViewData["Title"] = "Create User";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<section class="mt-4">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+                <div class="card shadow rounded-4 border-0">
+                    <div class="card-header bg-primary text-white rounded-top-4 py-3 text-center">
+                        <h5 class="mb-0"><i class="fa-solid fa-user-plus me-2"></i> Create New Account</h5>
+                    </div>
+                    <div class="card-body px-4 py-4">
+                        <form method="post" novalidate>
+
+                            <div class="mb-3">
+                                <label asp-for="FullName" class="form-label fw-semibold">Full Name</label>
+                                <input class="form-control" asp-for="FullName" placeholder="John Doe">
+                                <span asp-validation-for="FullName" class="text-danger small"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Email" class="form-label fw-semibold">Email Address</label>
+                                <input class="form-control" asp-for="Email" placeholder="example@mail.com">
+                                <span asp-validation-for="Email" class="text-danger small"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Password" class="form-label fw-semibold">Password</label>
+                                <input type="password" class="form-control" asp-for="Password" placeholder="••••••••">
+                                <span asp-validation-for="Password" class="text-danger small"></span>
+                            </div>
+                            <div class="mb-4">
+                                <label asp-for="ConfirmPassword" class="form-label fw-semibold">Confirm Password</label>
+                                <input type="password" class="form-control" asp-for="ConfirmPassword"
+                                    placeholder="••••••••">
+                                <span asp-validation-for="ConfirmPassword" class="text-danger small"></span>
+                            </div>
+                            <div class="text-end">
+                                <button type="submit" class="btn btn-success px-4">
+                                    <i class="fa-solid fa-check me-1"></i> Create Account
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

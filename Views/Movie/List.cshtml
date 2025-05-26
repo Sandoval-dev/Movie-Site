@@ -1,0 +1,54 @@
+@using MovieSite.Data
+@model List<Movie>
+
+@{
+    ViewData["Title"] = "Movie List";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+@section Bar {
+    @await Component.InvokeAsync("Navbar")
+}
+
+<div class="container my-5">
+    <div class="d-flex align-items-center justify-content-between mb-4">
+        <h3 class="fw-bold text-dark">
+            <i class="fa-solid fa-clapperboard me-2 text-primary"></i> Movie List
+        </h3>
+    </div>
+
+    @if (Model.Count == 0)
+    {
+        <div class="alert alert-warning text-center shadow-sm">
+            <i class="fa fa-info-circle me-2"></i> No movies found.
+        </div>
+    }
+
+    <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-4">
+        @foreach (var movie in Model)
+        {
+            <div class="col">
+                <div class="card h-100 border-0 shadow-sm rounded-4 d-flex flex-column">
+                    <a asp-controller="Movie" asp-action="Details" asp-route-id="@movie.Id" class="ratio ratio-16x9">
+                        <img src="~/img/@movie.ImageUrl"
+                             class="card-img-top object-fit-cover rounded-top-4"
+                             alt="@movie.Title"
+                             style="width: 100%; height: 100%; object-fit: cover;" />
+                    </a>
+                    <div class="card-body flex-grow-1 d-flex flex-column">
+                        <h6 class="card-title text-dark text-truncate mb-2">@movie.Title</h6>
+                        <p class="card-text small text-muted mb-0 mt-auto">
+                            <i class="fa fa-calendar me-1"></i> @movie.ReleaseDate.ToString("yyyy")
+                        </p>
+                    </div>
+                    <div class="card-footer bg-transparent border-0">
+                        <a asp-controller="Movie" asp-action="Details" asp-route-id="@movie.Id"
+                           class="btn btn-outline-primary btn-sm w-100 rounded-pill">
+                            <i class="fa fa-eye me-1"></i> View Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
