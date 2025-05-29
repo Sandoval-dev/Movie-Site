@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MovieSite.Data;
 using MovieSite.Models;
+using MovieSite.Services;
 
 namespace MovieSite.Controllers;
 
@@ -12,13 +13,15 @@ public class AccountController : Controller
     private UserManager<AppUser> _userManager;
 
     private SignInManager<AppUser> _signInManager;
+    private IEmailService _emailService;
     private RoleManager<AppRole> _roleManager;
 
-    public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<AppRole> roleManager)
+    public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<AppRole> roleManager, IEmailService emailService)
     {
         _roleManager = roleManager;
         _userManager = userManager;
         _signInManager = signInManager;
+        _emailService = emailService;
     }
     public ActionResult Create()
     {
@@ -117,6 +120,85 @@ public class AccountController : Controller
     {
         await _signInManager.SignOutAsync();
         return RedirectToAction("Index", "Home");
+    }
+
+    public ActionResult ForgotPassword()
+    {
+        return View();
+    }
+
+
+    [HttpPost]
+    public async Task<ActionResult> ForgotPassword(string email)
+    {
+        if (string.IsNullOrEmpty(email))
+        {
+            TempData["Message"] = "Email is required.";
+            return View();
+        }
+        var user = await _userManager.FindByEmailAsync(email);
+        if (user == null)
+        {
+            TempData["Message"] = "Email not found.";
+            return View();
+        }
+        var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+        var url = Url.Action("ResetPassword", "Account", new { userId = user.Id, token });
+        var message = $"Please reset your password by clicking here: <a href='http://localhost:5281{url}'>link</a>";
+
+        await _emailService.SendEmailAsync(user.Email!, "Reset Password", message);
+        TempData["Message"] = "Password reset link sent to your email.";
+
+        return RedirectToAction("Login");
+    }
+
+    public async Task<ActionResult> ResetPassword(string userId, string token)
+    {
+        if (userId == null || token == null)
+        {
+            TempData["Message"] = "Invalid password reset link.";
+            return RedirectToAction("Login");
+        }
+        var user = await _userManager.FindByIdAsync(userId);
+
+        if (user == null)
+        {
+            TempData["Message"] = "User not found.";
+            return RedirectToAction("Login");
+        }
+
+        var model = new AccountResetPasswordModel
+        {
+            Token = token,
+            Email = user.Email!,
+        };
+        return View(model);
+    }
+
+
+    [HttpPost]
+    public async Task<ActionResult> ResetPassword(AccountResetPasswordModel model)
+    {
+        if (ModelState.IsValid)
+        {
+            var user = await _userManager.FindByEmailAsync(model.Email);
+            if (user == null)
+            {
+                TempData["Message"] = "User not found.";
+                return RedirectToAction("Login");
+            }
+            var result = await _userManager.ResetPasswordAsync(user, model.Token, model.Password);
+            if (result.Succeeded)
+            {
+                TempData["Message"] = "Password reset successfully.";
+                return RedirectToAction("Login");
+            }
+            foreach (var error in result.Errors)
+            {
+                ModelState.AddModelError("", error.Description);
+            }
+        }
+        return View(model);
     }
 
 }
