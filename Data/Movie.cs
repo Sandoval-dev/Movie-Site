@@ -10,4 +10,6 @@ public class Movie
     public int CategoryId { get; set; }
     public float Rating { get; set; }
     public Category Category { get; set; } = null!;
+
+    public List<Comment> Comments { get; set; }
 }

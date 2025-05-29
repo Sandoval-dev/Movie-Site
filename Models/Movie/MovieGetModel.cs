@@ -8,4 +8,5 @@ public class MovieGetModel
     public string ImageUrl { get; set; } = null!;
     public DateTime ReleaseDate { get; set; }
     public string CategoryName { get; set; } = null!;
+   
 }

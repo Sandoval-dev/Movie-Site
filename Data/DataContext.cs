@@ -13,6 +13,7 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
     public DbSet<Category> Categories { get; set; } = null!;
     public DbSet<Movie> Movies { get; set; } = null!;
     public DbSet<MovieList> MovieLists { get; set; } = null!;
+    public DbSet<Comment> Comments { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

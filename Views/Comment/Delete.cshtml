@@ -1,0 +1,41 @@
+@using MovieSite.Data
+@model Comment
+
+@{
+    ViewData["Title"] = "Delete Comment";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card shadow-lg border-0 rounded-4">
+            <div class="card-header bg-danger text-white py-3 rounded-top-4 d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">
+                    <i class="fa-solid fa-trash-can me-2"></i>Delete Comment
+                </h5>
+            </div>
+
+            <div class="card-body text-center px-4 py-4">
+                <p class="fs-5 mb-4">
+                    Are you sure you want to delete the comment by 
+                    <span class="fw-bold text-danger">@Model.User?.UserName</span>?
+                </p>
+
+                <p class="fst-italic mb-4">
+                    "@Model.Content"
+                </p>
+
+                <form asp-controller="Comment" asp-action="DeleteConfirm" method="post" class="d-flex justify-content-center gap-3">
+                    <input type="hidden" name="Id" value="@Model.Id" />
+
+                    <button type="submit" class="btn btn-danger px-4">
+                        <i class="fa-solid fa-trash me-1"></i> Delete
+                    </button>
+                    <a asp-controller="Comment" asp-action="Index" class="btn btn-secondary px-4">
+                        <i class="fa-solid fa-xmark me-1"></i> Cancel
+                    </a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

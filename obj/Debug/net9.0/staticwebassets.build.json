@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Sap6k80s/GYQ5dnP6ijToQQF+bIjBRscJrEd3n/9/IM=",
+  "Hash": "9g0GcyrwOCt35r29rcm0lcYiAx7xrAPFt6E1iT9F5og=",
   "Source": "MovieSite",
   "BasePath": "_content/MovieSite",
   "Mode": "Default",
@@ -2705,6 +2705,27 @@
       "OriginalItemSpec": "wwwroot\\img\\justiceleague.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\laapnjty.jl4.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/laapnjty.jl4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p3b9j3yul9",
+      "Integrity": "i+ANmr3+iSCvecypnx+1lgAHm06EWhRCpMxLcsAUBl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\laapnjty.jl4.jpg"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\matrix.jpeg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2766,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\srcvwlbg.2kj.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\te5lf1q5.4km.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/te5lf1q5.4km#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g9idwkp8q8",
+      "Integrity": "tB3nfzIQbvcrW5wNEzbHTDwUnxEQ/0tunSRA3aaudHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\te5lf1q5.4km.jpg"
     },
     {
       "Identity": "C:\\MovieSite\\wwwroot\\js\\fslightbox.js",
@@ -12380,6 +12422,88 @@
       ]
     },
     {
+      "Route": "img/laapnjty.jl4.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\laapnjty.jl4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+ANmr3+iSCvecypnx+1lgAHm06EWhRCpMxLcsAUBl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 08:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+ANmr3+iSCvecypnx+1lgAHm06EWhRCpMxLcsAUBl0="
+        }
+      ]
+    },
+    {
+      "Route": "img/laapnjty.jl4.p3b9j3yul9.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\laapnjty.jl4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+ANmr3+iSCvecypnx+1lgAHm06EWhRCpMxLcsAUBl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 08:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p3b9j3yul9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/laapnjty.jl4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+ANmr3+iSCvecypnx+1lgAHm06EWhRCpMxLcsAUBl0="
+        }
+      ]
+    },
+    {
       "Route": "img/matrix.jnfs55rsh1.jpeg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\matrix.jpeg",
       "Selectors": [],
@@ -12622,6 +12746,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-3cqgxjMHXSg0LNSBTARvuAM+IhU6YFEbECbAu4/Ov6k="
+        }
+      ]
+    },
+    {
+      "Route": "img/te5lf1q5.4km.g9idwkp8q8.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\te5lf1q5.4km.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tB3nfzIQbvcrW5wNEzbHTDwUnxEQ/0tunSRA3aaudHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 20:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9idwkp8q8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/te5lf1q5.4km.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tB3nfzIQbvcrW5wNEzbHTDwUnxEQ/0tunSRA3aaudHQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/te5lf1q5.4km.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\te5lf1q5.4km.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tB3nfzIQbvcrW5wNEzbHTDwUnxEQ/0tunSRA3aaudHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 20:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tB3nfzIQbvcrW5wNEzbHTDwUnxEQ/0tunSRA3aaudHQ="
         }
       ]
     },

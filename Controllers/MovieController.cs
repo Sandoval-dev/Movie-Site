@@ -25,15 +25,18 @@ public class MovieController : Controller
 
     public async Task<IActionResult> Index(string q, int page = 1, int pageSize = 10, int? category = null)
     {
+        ViewBag.Categories = new SelectList(await _context.Categories.ToListAsync(), "Id", "Name");
+
         var query = _context.Movies.AsQueryable();
 
         if (!string.IsNullOrEmpty(q))
-            query = query.Where(m => m.Title.Contains(q));
+            query = query.Where(m => m.Title.ToLower().Contains(q.ToLower()));
 
         if (category.HasValue)
             query = query.Where(m => m.CategoryId == category.Value);
 
         int totalItems = await query.CountAsync();
+
         var movies = await query
             .OrderBy(m => m.Id)
             .Skip((page - 1) * pageSize)
@@ -61,6 +64,8 @@ public class MovieController : Controller
     {
         var movie = await _context.Movies
              .Include(m => m.Category)
+             .Include(m => m.Comments)
+             .ThenInclude(c => c.User)
              .FirstOrDefaultAsync(m => m.Id == id);
 
         if (movie == null)

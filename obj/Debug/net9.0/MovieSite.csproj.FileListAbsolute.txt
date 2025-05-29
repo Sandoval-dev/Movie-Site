@@ -240,3 +240,4 @@ C:\MovieSite\obj\Debug\net9.0\refint\MovieSite.dll
 C:\MovieSite\obj\Debug\net9.0\MovieSite.pdb
 C:\MovieSite\obj\Debug\net9.0\MovieSite.genruntimeconfig.cache
 C:\MovieSite\obj\Debug\net9.0\ref\MovieSite.dll
+C:\MovieSite\obj\Debug\net9.0\MovieSite.sourcelink.json

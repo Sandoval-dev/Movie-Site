@@ -1,0 +1,62 @@
+@model List<CommentGetModel>
+
+@{
+    ViewData["Title"] = "Comments";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="card shadow rounded-4 border-0">
+            <div
+                class="card-header bg-primary text-white py-3 d-flex justify-content-between align-items-center rounded-top-4">
+                <h5 class="mb-0"><i class="fa-solid fa-comments me-2"></i>Comments</h5>
+            </div>
+            <div class="card-body p-4">
+
+                @if (!Model.Any())
+                {
+                    <div class="alert alert-warning text-center">
+                        No comments found.
+                    </div>
+                }
+                else
+                {
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle mb-0">
+                            <thead class="table-light">
+                                <tr>
+                                    <th style="width: 70px;">#</th>
+                                    <th>User Name</th>
+                                    <th>Movie</th>
+                                    <th>Content</th>
+                                    <th style="width: 180px;">Created Date</th>
+                                    <th class="text-end" style="width: 100px;">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var comment in Model)
+                                {
+                                    <tr>
+                                        <td>@comment.Id</td>
+                                        <td>@comment.UserName</td>
+                                        <td>@comment.MovieTitle</td>
+                                        <td>@(comment.Content.Length > 50 ? comment.Content.Substring(0, 50) + "..." :
+                                                                                comment.Content)</td>
+                                <td>@comment.CreatedDate.ToString("yyyy-MM-dd HH:mm")</td>
+                                <td class="text-end">
+                                    <a asp-controller="Comment" asp-action="Delete" asp-route-id="@comment.Id"
+                                        class="btn btn-outline-danger btn-sm" title="Delete">
+                                        <i class="fa-solid fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                                     }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
