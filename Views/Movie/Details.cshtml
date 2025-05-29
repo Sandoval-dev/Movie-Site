@@ -66,6 +66,14 @@
                     </div>
 
                     <p class="lead text-secondary">@Model.Description</p>
+                    @if (!string.IsNullOrEmpty(Model.TrailerUrl))
+                    {
+                        <div class="ratio ratio-16x9 mb-4">
+                            <iframe src="@Model.TrailerUrl.Replace("watch?v=", "embed/")" title="YouTube trailer"
+                                allowfullscreen frameborder="0">
+                            </iframe>
+                        </div>
+                    }
 
                     @if (userMovieIds.Contains(Model.Id))
                     {

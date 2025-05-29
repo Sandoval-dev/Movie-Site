@@ -14,37 +14,41 @@ public class HomeController : Controller
     }
 
 
-    public async Task<IActionResult> Index(string q, int page = 1, int pageSize = 10, int? category = null)
+    public async Task<IActionResult> Index(string sort = "date_desc", int page = 1, string q = null!, string category = null!)
     {
-        var query = _context.Movies.AsQueryable();
+        var movies = _context.Movies
+            .Include(m => m.Category) // Kategoriye göre filtreleme yapacağımız için Include şart
+            .AsQueryable();
 
-        if (!string.IsNullOrEmpty(q))
-            query = query.Where(m => m.Title.Contains(q));
+        if (!string.IsNullOrWhiteSpace(q))
+            movies = movies.Where(m => m.Title.Contains(q));
 
-        if (category.HasValue)
-            query = query.Where(m => m.CategoryId == category.Value);
+        if (!string.IsNullOrWhiteSpace(category))
+            movies = movies.Where(m => m.Category.Name == category);
 
-        int totalItems = await query.CountAsync();
-        var movies = await query
-            .OrderBy(m => m.Id)
-            .Skip((page - 1) * pageSize)
-            .Take(pageSize)
-            .Select(m => new Movie
-            {
-                Id = m.Id,
-                Title = m.Title,
-                ReleaseDate = m.ReleaseDate,
-                Category=m.Category,
-                ImageUrl = m.ImageUrl
-            })
-            .ToListAsync();
+        movies = sort switch
+        {
+            "date_asc" => movies.OrderBy(m => m.ReleaseDate),
+            "rating_desc" => movies.OrderByDescending(m => m.Rating),
+            "rating_asc" => movies.OrderBy(m => m.Rating),
+            "title_asc" => movies.OrderBy(m => m.Title),
+            "title_desc" => movies.OrderByDescending(m => m.Title),
+            _ => movies.OrderByDescending(m => m.ReleaseDate)
+        };
+
+        // Sayfalama
+        int pageSize = 12;
+        int totalMovies = await movies.CountAsync();
+        var pagedMovies = await movies.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
 
         ViewData["CurrentPage"] = page;
-        ViewData["TotalPages"] = (int)Math.Ceiling((double)totalItems / pageSize);
+        ViewData["TotalPages"] = (int)Math.Ceiling(totalMovies / (double)pageSize);
+        ViewData["Sort"] = sort;
         ViewData["q"] = q;
         ViewData["category"] = category;
 
-        return View(movies);
+        return View(pagedMovies);
     }
+
 
 }

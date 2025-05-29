@@ -6,6 +6,7 @@ public class Movie
     public string Title { get; set; } = null!;
     public string Description { get; set; } = null!;
     public string ImageUrl { get; set; } = null!;
+    public string TrailerUrl { get; set; } = null!;
     public DateTime ReleaseDate { get; set; }
     public int CategoryId { get; set; }
     public float Rating { get; set; }

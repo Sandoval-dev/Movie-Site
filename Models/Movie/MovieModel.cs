@@ -15,6 +15,11 @@ public class MovieModel
     [Display(Name = "Movie Description")]
     public string Description { get; set; } = null!;
 
+    [Required(ErrorMessage = "Trailer URL is required")]
+    [YouTubeUrl(ErrorMessage = "Please enter a valid YouTube video URL.")]
+    [Display(Name = "Trailer URL")]
+    public string TrailerUrl { get; set; } = null!;
+
     public IFormFile? Image { get; set; }
 
     [Required(ErrorMessage = "Release Date is required")]

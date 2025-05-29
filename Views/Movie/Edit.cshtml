@@ -8,7 +8,8 @@
 <div class="row justify-content-center">
     <div class="col-lg-10">
         <div class="card shadow rounded-4 border-0">
-            <div class="card-header bg-warning text-dark py-3 d-flex justify-content-between align-items-center rounded-top-4">
+            <div
+                class="card-header bg-warning text-dark py-3 d-flex justify-content-between align-items-center rounded-top-4">
                 <h5 class="mb-0">✏️ Edit Movie</h5>
                 <a asp-controller="Movie" asp-action="Index" class="btn btn-sm btn-dark">
                     <i class="fa-solid fa-list me-1"></i> Back to List
@@ -21,44 +22,59 @@
                     <input type="hidden" asp-for="ImageName" />
 
                     <div class="mb-3">
-                        <label asp-for="Name" class="form-label fw-semibold"><i class="fa-solid fa-film me-1"></i> Movie Title</label>
+                        <label asp-for="Name" class="form-label fw-semibold"><i class="fa-solid fa-film me-1"></i> Movie
+                            Title</label>
                         <input asp-for="Name" class="form-control" placeholder="Enter movie title">
                         <span asp-validation-for="Name" class="text-danger"></span>
                     </div>
 
                     <div class="mb-3">
-                        <label asp-for="Description" class="form-label fw-semibold"><i class="fa-solid fa-align-left me-1"></i> Description</label>
-                        <textarea asp-for="Description" rows="4" class="form-control" placeholder="Write a short description..."></textarea>
+                        <label asp-for="Description" class="form-label fw-semibold"><i
+                                class="fa-solid fa-align-left me-1"></i> Description</label>
+                        <textarea asp-for="Description" rows="4" class="form-control"
+                            placeholder="Write a short description..."></textarea>
                         <span asp-validation-for="Description" class="text-danger"></span>
                     </div>
 
                     <div class="mb-3">
-                        <label asp-for="ReleaseDate" class="form-label fw-semibold"><i class="fa-solid fa-calendar-days me-1"></i> Release Date</label>
+                        <label asp-for="ReleaseDate" class="form-label fw-semibold"><i
+                                class="fa-solid fa-calendar-days me-1"></i> Release Date</label>
                         <input asp-for="ReleaseDate" class="form-control" type="date">
                         <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="TrailerUrl" class="form-label fw-semibold"></label>
+                        <input asp-for="TrailerUrl" class="form-control"
+                            placeholder="Enter movie trailer url from YouTube">
+                        <span asp-validation-for="TrailerUrl" class="text-danger"></span>
                     </div>
 
                     @* Image Preview & Upload *@
                     <div class="mb-3">
-                        <label class="form-label fw-semibold"><i class="fa-solid fa-image me-1"></i> Current Poster</label>
+                        <label class="form-label fw-semibold"><i class="fa-solid fa-image me-1"></i> Current
+                            Poster</label>
                         <div>
-                            <img src="~/img/@Model.ImageName" alt="Movie Poster" class="img-thumbnail rounded shadow-sm" style="max-height: 200px;">
+                            <img src="~/img/@Model.ImageName" alt="Movie Poster" class="img-thumbnail rounded shadow-sm"
+                                style="max-height: 200px;">
                         </div>
                     </div>
                     <div class="mb-3">
-                        <label asp-for="Image" class="form-label fw-semibold"><i class="fa-solid fa-upload me-1"></i> Upload New Poster</label>
+                        <label asp-for="Image" class="form-label fw-semibold"><i class="fa-solid fa-upload me-1"></i>
+                            Upload New Poster</label>
                         <input asp-for="Image" class="form-control" type="file">
                         <span asp-validation-for="Image" class="text-danger"></span>
                     </div>
 
                     <div class="mb-3">
-                        <label asp-for="Rating" class="form-label fw-semibold"><i class="fa-solid fa-star me-1"></i> Rating</label>
+                        <label asp-for="Rating" class="form-label fw-semibold"><i class="fa-solid fa-star me-1"></i>
+                            Rating</label>
                         <input asp-for="Rating" class="form-control" type="number" step="0.1" placeholder="e.g. 8.4">
                         <span asp-validation-for="Rating" class="text-danger"></span>
                     </div>
 
                     <div class="mb-4">
-                        <label asp-for="CategoryId" class="form-label fw-semibold"><i class="fa-solid fa-tags me-1"></i> Category</label>
+                        <label asp-for="CategoryId" class="form-label fw-semibold"><i class="fa-solid fa-tags me-1"></i>
+                            Category</label>
                         <select asp-for="CategoryId" class="form-select" asp-items="ViewBag.Categories">
                             <option value="">Select a Category</option>
                         </select>

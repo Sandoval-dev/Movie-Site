@@ -197,6 +197,7 @@ public class MovieController : Controller
             ImageName = i.ImageUrl,
             ReleaseDate = i.ReleaseDate,
             Rating = i.Rating,
+            TrailerUrl = i.TrailerUrl,
             CategoryId = i.CategoryId
         }).FirstOrDefault(i => i.Id == id);
         ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name", movie?.CategoryId);
@@ -236,11 +237,13 @@ public class MovieController : Controller
                 movie.Rating = model.Rating;
                 movie.CategoryId = (int)model.CategoryId;
                 movie.ReleaseDate = model.ReleaseDate;
+                movie.TrailerUrl = model.TrailerUrl;
                 _context.SaveChanges();
                 TempData["Message"] = $"{movie.Title} Movie updated successfully.";
                 return RedirectToAction("Index");
             }
         }
+        ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name", model.CategoryId);
         return View(model);
     }
 
