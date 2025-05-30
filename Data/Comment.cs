@@ -17,4 +17,5 @@ public class Comment
     // Kullanıcı ile ilişki (eğer login sistemi varsa)
     public int UserId { get; set; }
     public AppUser? User { get; set; }
+
 }

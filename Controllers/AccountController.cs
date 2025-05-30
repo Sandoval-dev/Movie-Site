@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -15,13 +16,15 @@ public class AccountController : Controller
     private SignInManager<AppUser> _signInManager;
     private IEmailService _emailService;
     private RoleManager<AppRole> _roleManager;
+    private readonly IWebHostEnvironment _webHostEnvironment;
 
-    public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<AppRole> roleManager, IEmailService emailService)
+    public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<AppRole> roleManager, IEmailService emailService, IWebHostEnvironment webHostEnvironment)
     {
         _roleManager = roleManager;
         _userManager = userManager;
         _signInManager = signInManager;
         _emailService = emailService;
+        _webHostEnvironment = webHostEnvironment;
     }
     public ActionResult Create()
     {
@@ -43,6 +46,7 @@ public class AccountController : Controller
                 UserName = model.Email,
                 Email = model.Email,
                 FullName = model.FullName,
+                ProfileImage = "default.png" // Varsayılan profil resmi
             };
             var result = await _userManager.CreateAsync(user, model.Password);
             if (result.Succeeded)
@@ -196,6 +200,127 @@ public class AccountController : Controller
             foreach (var error in result.Errors)
             {
                 ModelState.AddModelError("", error.Description);
+            }
+        }
+        return View(model);
+    }
+
+    [Authorize]
+    public async Task<ActionResult> EditUser()
+    {
+        var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        var user = await _userManager.FindByIdAsync(userId!);
+        if (user == null)
+        {
+            TempData["Message"] = "User not found.";
+        }
+        return View(new AccountEditUserModel
+        {
+            FullName = user?.FullName!,
+            Email = user?.Email!,
+            CurrentProfileImage = user?.ProfileImage
+
+        });
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> EditUser(AccountEditUserModel model)
+    {
+        if (!ModelState.IsValid)
+        {
+            return View(model);
+        }
+
+        var user = await _userManager.GetUserAsync(User);
+        if (user == null)
+            return NotFound();
+
+        user.FullName = model.FullName;
+        user.Email = model.Email;
+
+        if (model.ProfileImage != null && model.ProfileImage.Length > 0)
+        {
+            // Eski fotoğraf varsa sil
+            if (!string.IsNullOrEmpty(user.ProfileImage))
+            {
+                var oldFilePath = Path.Combine(_webHostEnvironment.WebRootPath, "img", user.ProfileImage);
+                if (System.IO.File.Exists(oldFilePath))
+                {
+                    System.IO.File.Delete(oldFilePath);
+                }
+            }
+
+            // Yeni fotoğrafı kaydet
+            var uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "img");
+            var uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(model.ProfileImage.FileName);
+            var filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+            using (var fileStream = new FileStream(filePath, FileMode.Create))
+            {
+                await model.ProfileImage.CopyToAsync(fileStream);
+            }
+
+            user.ProfileImage = uniqueFileName;
+            model.CurrentProfileImage = uniqueFileName;
+        }
+        else
+        {
+            model.CurrentProfileImage = user.ProfileImage;
+        }
+
+        var result = await _userManager.UpdateAsync(user);
+
+        if (result.Succeeded)
+        {
+            TempData["Message"] = "Profile updated successfully!";
+            return View(model);
+        }
+        else
+        {
+            foreach (var error in result.Errors)
+            {
+                ModelState.AddModelError("", error.Description);
+            }
+            return View(model);
+        }
+    }
+
+
+    [Authorize]
+    public ActionResult ChangePassword()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    [Authorize]
+    public async Task<ActionResult> ChangePassword(AccountChangePasswordModel model)
+    {
+        if (ModelState.IsValid)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId!);
+            if (user != null)
+            {
+                var result = await _userManager.ChangePasswordAsync(user, model.OldPassword, model.Password);
+                if (result.Succeeded)
+                {
+                    TempData["Message"] = "Password changed successfully.";
+                }
+                foreach (var error in result.Errors)
+                {
+                    if (error.Code == "PasswordMismatch")
+                    {
+                        ModelState.AddModelError("OldPassword", "Current password is incorrect.");
+                        TempData["Message"] = "Current password is incorrect.";
+                    }
+                    else
+                    {
+                        ModelState.AddModelError("", error.Description);
+                    }
+                }
+
             }
         }
         return View(model);

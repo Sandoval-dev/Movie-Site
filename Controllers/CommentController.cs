@@ -31,7 +31,7 @@ public class CommentController : Controller
             .Select(c => new CommentGetModel
             {
                 Id = c.Id,
-                MovieTitle=c.Movie.Title,
+                MovieTitle = c.Movie.Title,
                 UserName = c.User.UserName, // Veya c.User.FullName gibi istediğin kullanıcı alanı
                 Content = c.Content,
                 CreatedDate = c.CreatedAt
@@ -117,5 +117,7 @@ public class CommentController : Controller
         // Silme sonrası yönlendirme - örn. yorumun olduğu filmin detay sayfasına
         return RedirectToAction("Details", "Movie", new { id = comment.MovieId });
     }
+
+
 
 }

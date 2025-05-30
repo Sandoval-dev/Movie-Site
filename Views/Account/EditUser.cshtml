@@ -1,0 +1,74 @@
+@model AccountEditUserModel
+
+@{
+    ViewData["Title"] = "Edit User";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<section class="mt-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                @await Html.PartialAsync("Partials/Site/_AccountSideBar")
+            </div>
+            <div class="col-md-9">
+                <div class="card shadow rounded-4">
+                    <div class="card-header bg-primary text-white rounded-top-4 py-3">
+                        <h5 class="mb-0"><i class="bi bi-person-lines-fill me-2"></i>Edit Profile</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <form method="post" asp-controller="Account" asp-action="EditUser"
+                            enctype="multipart/form-data">
+                            <div class="mb-3 row">
+                                <label asp-for="FullName" class="col-sm-2 col-form-label fw-semibold"></label>
+                                <div class="col-sm-10">
+                                    <input asp-for="FullName" class="form-control shadow-sm rounded-pill px-3"
+                                        placeholder="Enter full name">
+                                    <span asp-validation-for="FullName" class="text-danger small"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-3 row">
+                                <label asp-for="Email" class="col-sm-2 col-form-label fw-semibold"></label>
+                                <div class="col-sm-10">
+                                    <input asp-for="Email" class="form-control shadow-sm rounded-pill px-3"
+                                        placeholder="Enter email address">
+                                    <span asp-validation-for="Email" class="text-danger small"></span>
+                                </div>
+                            </div>
+                            <div class="mb-3 row">
+                                <label asp-for="ProfileImage" class="col-sm-2 col-form-label fw-semibold"></label>
+                                <div class="col-sm-10">
+                                    @if (!string.IsNullOrEmpty(Model.CurrentProfileImage))
+                                    {
+                                        <img src="~/img/@Model.CurrentProfileImage" alt="Current Profile"
+                                            class="img-thumbnail mb-2 rounded-circle"
+                                            style="width: 120px; height: 120px; object-fit: cover;" />
+                                    }
+                                    else{
+                                        <img src="~/img/default.png" alt="Default Profile"
+                                            class="img-thumbnail mb-2 rounded-circle"
+                                            style="width: 120px; height: 120px; object-fit: cover;" />
+                                    }
+                                    <input asp-for="ProfileImage" type="file"
+                                        class="form-control shadow-sm px-3 rounded-pill" />
+                                    <span asp-validation-for="ProfileImage" class="text-danger small"></span>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-10 offset-sm-2">
+                                    <button type="submit" class="btn btn-success rounded-pill px-4">
+                                        <i class="bi bi-save me-2"></i>Save Changes
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

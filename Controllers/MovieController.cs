@@ -177,7 +177,8 @@ public class MovieController : Controller
                 Rating = model.Rating,
                 CategoryId = (int)model.CategoryId,
                 ReleaseDate = model.ReleaseDate,
-                ImageUrl = filename
+                ImageUrl = filename,
+                TrailerUrl = model.TrailerUrl
             };
             _context.Movies.Add(movie);
             _context.SaveChanges();

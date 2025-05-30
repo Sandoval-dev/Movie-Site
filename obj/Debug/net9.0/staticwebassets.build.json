@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9g0GcyrwOCt35r29rcm0lcYiAx7xrAPFt6E1iT9F5og=",
+  "Hash": "rbtzXHa1T7OYsipZMzYlPernNe3JQ8uMlhx/ouo5HQQ=",
   "Source": "MovieSite",
   "BasePath": "_content/MovieSite",
   "Mode": "Default",
@@ -2453,6 +2453,195 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\1a0c4801-7596-435a-b41f-dec6ea822c01.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/1a0c4801-7596-435a-b41f-dec6ea822c01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\1a0c4801-7596-435a-b41f-dec6ea822c01.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\23p2gjyu.pie.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/23p2gjyu.pie#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\23p2gjyu.pie.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\243fd1cf-c72e-402a-91fc-211fcfd41272.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/243fd1cf-c72e-402a-91fc-211fcfd41272#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\243fd1cf-c72e-402a-91fc-211fcfd41272.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\29889d23-2da1-4707-909b-47841e762dda.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/29889d23-2da1-4707-909b-47841e762dda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\29889d23-2da1-4707-909b-47841e762dda.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/33aa0e73-2d73-4cc8-a5d4-4918b6b19baa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\37e1302a-c0c2-42ac-8777-1a6b2e793b57.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/37e1302a-c0c2-42ac-8777-1a6b2e793b57#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\37e1302a-c0c2-42ac-8777-1a6b2e793b57.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\4824c3de-ccaa-49db-9b48-75637bfebced.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/4824c3de-ccaa-49db-9b48-75637bfebced#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4824c3de-ccaa-49db-9b48-75637bfebced.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\49d4c96c-e092-4cef-ba33-c1a3935f7f31.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/49d4c96c-e092-4cef-ba33-c1a3935f7f31#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\49d4c96c-e092-4cef-ba33-c1a3935f7f31.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\4cfaezct.o5l.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/4cfaezct.o5l#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4cfaezct.o5l.jpg"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\4cgjery4.msa.jpg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2495,6 +2684,174 @@
       "OriginalItemSpec": "wwwroot\\img\\5bn2jext.jg1.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\5h5wtdwn.w4k.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/5h5wtdwn.w4k#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umwruxpde2",
+      "Integrity": "9q+rrKkSAZVgLV3xNRGstuhAcoMLKgiN0nufOeTEPlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\5h5wtdwn.w4k.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\6053d77a-9a50-4b45-9151-1d29af5e37eb.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/6053d77a-9a50-4b45-9151-1d29af5e37eb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\6053d77a-9a50-4b45-9151-1d29af5e37eb.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\7a1be41a-6e5d-480c-9f29-08adf0361c75.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/7a1be41a-6e5d-480c-9f29-08adf0361c75#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\7a1be41a-6e5d-480c-9f29-08adf0361c75.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\7df06c3c-d930-48c9-aa2d-0061d3e0a80d.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/7df06c3c-d930-48c9-aa2d-0061d3e0a80d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\7df06c3c-d930-48c9-aa2d-0061d3e0a80d.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/9ce0c90e-cfd0-499f-90d8-95f4a9c07deb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\a07d99c5-d7bf-4230-820a-d929b50ad764.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/a07d99c5-d7bf-4230-820a-d929b50ad764#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a07d99c5-d7bf-4230-820a-d929b50ad764.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\a6c69729-aa6a-454e-b604-c8546eddce60.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/a6c69729-aa6a-454e-b604-c8546eddce60#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a6c69729-aa6a-454e-b604-c8546eddce60.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\af117978-44f2-45a6-a40f-e94905388346.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/af117978-44f2-45a6-a40f-e94905388346#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\af117978-44f2-45a6-a40f-e94905388346.png"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\avengers.jpg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2514,6 +2871,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\avengers.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\b95c6999-d016-4a92-b290-6dbf286044b6.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/b95c6999-d016-4a92-b290-6dbf286044b6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b95c6999-d016-4a92-b290-6dbf286044b6.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\bi3ezbfq.jfx.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/bi3ezbfq.jfx#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bi3ezbfq.jfx.jpg"
     },
     {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\conjuring.jpg",
@@ -2537,6 +2936,48 @@
       "OriginalItemSpec": "wwwroot\\img\\conjuring.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\d1pbx5om.m1a.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/d1pbx5om.m1a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kwpquf1x00",
+      "Integrity": "pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d1pbx5om.m1a.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\d2679d17-94c2-4aad-8925-229d56429312.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/d2679d17-94c2-4aad-8925-229d56429312#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d2679d17-94c2-4aad-8925-229d56429312.png"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\dark.jpg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2556,6 +2997,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\dark.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/dd53ff11-5c41-4a4f-8f1c-d32ad6786a83#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\default.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/default#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\default.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\effd4f7e-5037-4c01-ad30-77dcc597eca8.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/effd4f7e-5037-4c01-ad30-77dcc597eca8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\effd4f7e-5037-4c01-ad30-77dcc597eca8.jpg"
     },
     {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\Esaretin-bedeli.jpg",
@@ -2579,6 +3083,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Esaretin-bedeli.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\g4bfiybo.fly.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/g4bfiybo.fly#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\g4bfiybo.fly.png"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\godfather.jpg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2598,6 +3123,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\godfather.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\gol55ulx.fux.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/gol55ulx.fux#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kwpquf1x00",
+      "Integrity": "pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\gol55ulx.fux.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\gstr31j5.vqj.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/gstr31j5.vqj#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kwpquf1x00",
+      "Integrity": "pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\gstr31j5.vqj.jpg"
     },
     {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\hangover.jpg",
@@ -2684,6 +3251,27 @@
       "OriginalItemSpec": "wwwroot\\img\\ingbu4jf.wdn.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\j41x4h4y.k2u.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/j41x4h4y.k2u#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\j41x4h4y.k2u.jpg"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\justiceleague.jpg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2726,6 +3314,27 @@
       "OriginalItemSpec": "wwwroot\\img\\laapnjty.jl4.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\ldhsnkvj.3fc.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/ldhsnkvj.3fc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kwpquf1x00",
+      "Integrity": "pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ldhsnkvj.3fc.jpg"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\matrix.jpeg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2745,6 +3354,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\matrix.jpeg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\q040jjw5.pu5.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/q040jjw5.pu5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\q040jjw5.pu5.png"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\r5sa2soj.hvm.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/r5sa2soj.hvm#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5etoc7iozr",
+      "Integrity": "zdJjvM81m+8ybQ1ypFCpZMi8kKL6lyvJoNh2T4MToE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\r5sa2soj.hvm.jpg"
     },
     {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\socialnetwork.jpg",
@@ -2789,6 +3440,27 @@
       "OriginalItemSpec": "wwwroot\\img\\srcvwlbg.2kj.jpg"
     },
     {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\tb4z2t2l.kma.png",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/tb4z2t2l.kma#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pi792mbvi8",
+      "Integrity": "UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tb4z2t2l.kma.png"
+    },
+    {
       "Identity": "C:\\MovieSite\\wwwroot\\img\\te5lf1q5.4km.jpg",
       "SourceId": "MovieSite",
       "SourceType": "Discovered",
@@ -2808,6 +3480,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\te5lf1q5.4km.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\vufxu0wc.0x4.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/vufxu0wc.0x4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\vufxu0wc.0x4.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\yi22di3z.5ka.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/yi22di3z.5ka#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kwpquf1x00",
+      "Integrity": "pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\yi22di3z.5ka.jpg"
+    },
+    {
+      "Identity": "C:\\MovieSite\\wwwroot\\img\\z0m1xwqq.uxv.jpg",
+      "SourceId": "MovieSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieSite\\wwwroot\\",
+      "BasePath": "_content/MovieSite",
+      "RelativePath": "img/z0m1xwqq.uxv#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx3vfnaqh5",
+      "Integrity": "tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\z0m1xwqq.uxv.jpg"
     },
     {
       "Identity": "C:\\MovieSite\\wwwroot\\js\\fslightbox.js",
@@ -11438,6 +12173,744 @@
       ]
     },
     {
+      "Route": "img/1a0c4801-7596-435a-b41f-dec6ea822c01.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\1a0c4801-7596-435a-b41f-dec6ea822c01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/1a0c4801-7596-435a-b41f-dec6ea822c01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/1a0c4801-7596-435a-b41f-dec6ea822c01.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\1a0c4801-7596-435a-b41f-dec6ea822c01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/23p2gjyu.pie.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\23p2gjyu.pie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/23p2gjyu.pie.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\23p2gjyu.pie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/23p2gjyu.pie.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/243fd1cf-c72e-402a-91fc-211fcfd41272.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\243fd1cf-c72e-402a-91fc-211fcfd41272.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/243fd1cf-c72e-402a-91fc-211fcfd41272.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/243fd1cf-c72e-402a-91fc-211fcfd41272.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\243fd1cf-c72e-402a-91fc-211fcfd41272.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/29889d23-2da1-4707-909b-47841e762dda.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\29889d23-2da1-4707-909b-47841e762dda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:46:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/29889d23-2da1-4707-909b-47841e762dda.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\29889d23-2da1-4707-909b-47841e762dda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:46:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/29889d23-2da1-4707-909b-47841e762dda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\33aa0e73-2d73-4cc8-a5d4-4918b6b19baa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/37e1302a-c0c2-42ac-8777-1a6b2e793b57.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\37e1302a-c0c2-42ac-8777-1a6b2e793b57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:50:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/37e1302a-c0c2-42ac-8777-1a6b2e793b57.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\37e1302a-c0c2-42ac-8777-1a6b2e793b57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:50:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/37e1302a-c0c2-42ac-8777-1a6b2e793b57.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/4824c3de-ccaa-49db-9b48-75637bfebced.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\4824c3de-ccaa-49db-9b48-75637bfebced.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:46:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/4824c3de-ccaa-49db-9b48-75637bfebced.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\4824c3de-ccaa-49db-9b48-75637bfebced.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:46:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4824c3de-ccaa-49db-9b48-75637bfebced.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/49d4c96c-e092-4cef-ba33-c1a3935f7f31.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\49d4c96c-e092-4cef-ba33-c1a3935f7f31.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/49d4c96c-e092-4cef-ba33-c1a3935f7f31.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/49d4c96c-e092-4cef-ba33-c1a3935f7f31.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\49d4c96c-e092-4cef-ba33-c1a3935f7f31.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/4cfaezct.o5l.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\4cfaezct.o5l.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/4cfaezct.o5l.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\4cfaezct.o5l.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4cfaezct.o5l.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
       "Route": "img/4cgjery4.msa.jpg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\4cgjery4.msa.jpg",
       "Selectors": [],
@@ -11602,6 +13075,662 @@
       ]
     },
     {
+      "Route": "img/5h5wtdwn.w4k.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\5h5wtdwn.w4k.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9q+rrKkSAZVgLV3xNRGstuhAcoMLKgiN0nufOeTEPlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9q+rrKkSAZVgLV3xNRGstuhAcoMLKgiN0nufOeTEPlk="
+        }
+      ]
+    },
+    {
+      "Route": "img/5h5wtdwn.w4k.umwruxpde2.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\5h5wtdwn.w4k.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9q+rrKkSAZVgLV3xNRGstuhAcoMLKgiN0nufOeTEPlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umwruxpde2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/5h5wtdwn.w4k.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9q+rrKkSAZVgLV3xNRGstuhAcoMLKgiN0nufOeTEPlk="
+        }
+      ]
+    },
+    {
+      "Route": "img/6053d77a-9a50-4b45-9151-1d29af5e37eb.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\6053d77a-9a50-4b45-9151-1d29af5e37eb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/6053d77a-9a50-4b45-9151-1d29af5e37eb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/6053d77a-9a50-4b45-9151-1d29af5e37eb.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\6053d77a-9a50-4b45-9151-1d29af5e37eb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/7a1be41a-6e5d-480c-9f29-08adf0361c75.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\7a1be41a-6e5d-480c-9f29-08adf0361c75.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/7a1be41a-6e5d-480c-9f29-08adf0361c75.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/7a1be41a-6e5d-480c-9f29-08adf0361c75.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\7a1be41a-6e5d-480c-9f29-08adf0361c75.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/7df06c3c-d930-48c9-aa2d-0061d3e0a80d.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\7df06c3c-d930-48c9-aa2d-0061d3e0a80d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/7df06c3c-d930-48c9-aa2d-0061d3e0a80d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/7df06c3c-d930-48c9-aa2d-0061d3e0a80d.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\7df06c3c-d930-48c9-aa2d-0061d3e0a80d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\9ce0c90e-cfd0-499f-90d8-95f4a9c07deb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a07d99c5-d7bf-4230-820a-d929b50ad764.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\a07d99c5-d7bf-4230-820a-d929b50ad764.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a07d99c5-d7bf-4230-820a-d929b50ad764.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a07d99c5-d7bf-4230-820a-d929b50ad764.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\a07d99c5-d7bf-4230-820a-d929b50ad764.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a6c69729-aa6a-454e-b604-c8546eddce60.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\a6c69729-aa6a-454e-b604-c8546eddce60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:49:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/a6c69729-aa6a-454e-b604-c8546eddce60.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\a6c69729-aa6a-454e-b604-c8546eddce60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:49:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a6c69729-aa6a-454e-b604-c8546eddce60.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/af117978-44f2-45a6-a40f-e94905388346.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\af117978-44f2-45a6-a40f-e94905388346.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:42:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/af117978-44f2-45a6-a40f-e94905388346.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/af117978-44f2-45a6-a40f-e94905388346.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\af117978-44f2-45a6-a40f-e94905388346.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:42:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
       "Route": "img/avengers.bsne57hfrn.jpg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\avengers.jpg",
       "Selectors": [],
@@ -11680,6 +13809,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-FR++cQD8e27Uv3VP5e9ahBjgDM8ymAkXZ3kqFGm6a+Y="
+        }
+      ]
+    },
+    {
+      "Route": "img/b95c6999-d016-4a92-b290-6dbf286044b6.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\b95c6999-d016-4a92-b290-6dbf286044b6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/b95c6999-d016-4a92-b290-6dbf286044b6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/b95c6999-d016-4a92-b290-6dbf286044b6.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\b95c6999-d016-4a92-b290-6dbf286044b6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/bi3ezbfq.jfx.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\bi3ezbfq.jfx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/bi3ezbfq.jfx.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\bi3ezbfq.jfx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bi3ezbfq.jfx.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
         }
       ]
     },
@@ -11766,6 +14059,170 @@
       ]
     },
     {
+      "Route": "img/d1pbx5om.m1a.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\d1pbx5om.m1a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:51:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/d1pbx5om.m1a.kwpquf1x00.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\d1pbx5om.m1a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:51:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwpquf1x00"
+        },
+        {
+          "Name": "label",
+          "Value": "img/d1pbx5om.m1a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/d2679d17-94c2-4aad-8925-229d56429312.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\d2679d17-94c2-4aad-8925-229d56429312.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/d2679d17-94c2-4aad-8925-229d56429312.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/d2679d17-94c2-4aad-8925-229d56429312.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\d2679d17-94c2-4aad-8925-229d56429312.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
       "Route": "img/dark.7o2wuw2gh9.jpg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\dark.jpg",
       "Selectors": [],
@@ -11844,6 +14301,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-h1NzOsYWFVljzEQMPPU2f0XXaFtnLFucNbx/GCrsF8Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\dd53ff11-5c41-4a4f-8f1c-d32ad6786a83.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/default.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\default.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 19:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/default.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/default.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\default.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 19:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/effd4f7e-5037-4c01-ad30-77dcc597eca8.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\effd4f7e-5037-4c01-ad30-77dcc597eca8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/effd4f7e-5037-4c01-ad30-77dcc597eca8.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\effd4f7e-5037-4c01-ad30-77dcc597eca8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/effd4f7e-5037-4c01-ad30-77dcc597eca8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
         }
       ]
     },
@@ -11930,6 +14633,88 @@
       ]
     },
     {
+      "Route": "img/g4bfiybo.fly.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\g4bfiybo.fly.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:45:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/g4bfiybo.fly.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/g4bfiybo.fly.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\g4bfiybo.fly.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:45:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
       "Route": "img/godfather.jpg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\godfather.jpg",
       "Selectors": [],
@@ -12008,6 +14793,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-qYcdAeirqhg6u4ZE3YqJKRDpt9HDrgP/fDCg1m1dUsc="
+        }
+      ]
+    },
+    {
+      "Route": "img/gol55ulx.fux.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\gol55ulx.fux.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/gol55ulx.fux.kwpquf1x00.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\gol55ulx.fux.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwpquf1x00"
+        },
+        {
+          "Name": "label",
+          "Value": "img/gol55ulx.fux.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/gstr31j5.vqj.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\gstr31j5.vqj.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/gstr31j5.vqj.kwpquf1x00.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\gstr31j5.vqj.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwpquf1x00"
+        },
+        {
+          "Name": "label",
+          "Value": "img/gstr31j5.vqj.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
         }
       ]
     },
@@ -12340,6 +15289,88 @@
       ]
     },
     {
+      "Route": "img/j41x4h4y.k2u.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\j41x4h4y.k2u.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/j41x4h4y.k2u.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\j41x4h4y.k2u.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/j41x4h4y.k2u.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
       "Route": "img/justiceleague.jpg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\justiceleague.jpg",
       "Selectors": [],
@@ -12504,6 +15535,88 @@
       ]
     },
     {
+      "Route": "img/ldhsnkvj.3fc.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\ldhsnkvj.3fc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:52:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/ldhsnkvj.3fc.kwpquf1x00.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\ldhsnkvj.3fc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:52:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwpquf1x00"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ldhsnkvj.3fc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
       "Route": "img/matrix.jnfs55rsh1.jpeg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\matrix.jpeg",
       "Selectors": [],
@@ -12582,6 +15695,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY="
+        }
+      ]
+    },
+    {
+      "Route": "img/q040jjw5.pu5.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\q040jjw5.pu5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:38:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/q040jjw5.pu5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/q040jjw5.pu5.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\q040jjw5.pu5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:38:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/r5sa2soj.hvm.5etoc7iozr.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\r5sa2soj.hvm.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdJjvM81m+8ybQ1ypFCpZMi8kKL6lyvJoNh2T4MToE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5etoc7iozr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/r5sa2soj.hvm.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdJjvM81m+8ybQ1ypFCpZMi8kKL6lyvJoNh2T4MToE4="
+        }
+      ]
+    },
+    {
+      "Route": "img/r5sa2soj.hvm.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\r5sa2soj.hvm.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdJjvM81m+8ybQ1ypFCpZMi8kKL6lyvJoNh2T4MToE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdJjvM81m+8ybQ1ypFCpZMi8kKL6lyvJoNh2T4MToE4="
         }
       ]
     },
@@ -12750,6 +16027,88 @@
       ]
     },
     {
+      "Route": "img/tb4z2t2l.kma.pi792mbvi8.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\tb4z2t2l.kma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:39:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pi792mbvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/tb4z2t2l.kma.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
+      "Route": "img/tb4z2t2l.kma.png",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\tb4z2t2l.kma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:39:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UViFXYIlFUh15DOf+0wQGOtojjY27bPKgUurGN7TkWU="
+        }
+      ]
+    },
+    {
       "Route": "img/te5lf1q5.4km.g9idwkp8q8.jpg",
       "AssetFile": "C:\\MovieSite\\wwwroot\\img\\te5lf1q5.4km.jpg",
       "Selectors": [],
@@ -12828,6 +16187,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-tB3nfzIQbvcrW5wNEzbHTDwUnxEQ/0tunSRA3aaudHQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/vufxu0wc.0x4.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\vufxu0wc.0x4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/vufxu0wc.0x4.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\vufxu0wc.0x4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/vufxu0wc.0x4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/yi22di3z.5ka.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\yi22di3z.5ka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:51:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/yi22di3z.5ka.kwpquf1x00.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\yi22di3z.5ka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:51:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwpquf1x00"
+        },
+        {
+          "Name": "label",
+          "Value": "img/yi22di3z.5ka.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pM9YE92AEc92hWJwS2SRXofCWHv9IzWBfTI0yMmuoKo="
+        }
+      ]
+    },
+    {
+      "Route": "img/z0m1xwqq.uxv.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\z0m1xwqq.uxv.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/z0m1xwqq.uxv.xx3vfnaqh5.jpg",
+      "AssetFile": "C:\\MovieSite\\wwwroot\\img\\z0m1xwqq.uxv.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx3vfnaqh5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/z0m1xwqq.uxv.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXCpUEoHmVo6jcVNmv9OJgBnH6Kk8rCpDZV07JpVW4A="
         }
       ]
     },

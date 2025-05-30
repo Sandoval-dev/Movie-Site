@@ -239,6 +239,10 @@ namespace MovieSite.Migrations
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("ProfileImage")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("TEXT");
 
@@ -301,6 +305,34 @@ namespace MovieSite.Migrations
                             Id = 5,
                             Name = "Sci-Fi"
                         });
+                });
+
+            modelBuilder.Entity("MovieSite.Data.CommentReaction", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("CommentId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<bool>("IsLike")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("UserId1")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CommentId");
+
+                    b.HasIndex("UserId1");
+
+                    b.ToTable("CommentReactions");
                 });
 
             modelBuilder.Entity("MovieSite.Data.Movie", b =>
@@ -538,6 +570,25 @@ namespace MovieSite.Migrations
                         .IsRequired();
 
                     b.Navigation("Movie");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("MovieSite.Data.CommentReaction", b =>
+                {
+                    b.HasOne("Comment", "Comment")
+                        .WithMany()
+                        .HasForeignKey("CommentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MovieSite.Data.AppUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId1")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Comment");
 
                     b.Navigation("User");
                 });

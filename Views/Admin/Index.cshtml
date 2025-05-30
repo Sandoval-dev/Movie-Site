@@ -1,7 +1,8 @@
+@model AdminDashboardModel
+
 @{
     ViewData["Title"] = "Admin Index";
-    Layout = "~/Views/Shared/_AdminLayout.cshtml"; // Use the admin layout
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-
-@await Html.PartialAsync("Partials/Admin/_AdminCards")
+@await Html.PartialAsync("Partials/Admin/_AdminCards", Model)
